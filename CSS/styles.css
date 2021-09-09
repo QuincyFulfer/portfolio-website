@@ -59,7 +59,7 @@ a:hover, a:focus{
   padding: 10px;
   border-radius: 3px;
   border-bottom: 2px solid rgba(0, 0, 0, 0.3);
-  transition-duration: 0.2s opacity;
+  transition-duration: 0.4s;
 }
 
 button:hover,
@@ -78,7 +78,6 @@ button:focus,
 
 .navigation-list__item--active {
   text-decoration: none;
-  color: var(--text-color);
 }
 
 .profile__portrait {
